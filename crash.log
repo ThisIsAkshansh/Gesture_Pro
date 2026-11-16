@@ -1,0 +1,11 @@
+I0000 00:00:1785185602.388672   49726 init-domain.cc:128] Fiber init: default domain = pthread, concurrency = 16, prefix = pthread-default
+I0000 00:00:1785185602.416186   49726 gl_context.cc:407] GL version: 2.1 (2.1 Metal - 90.5), renderer: Apple M5 Pro
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1785185602.419058   49730 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1785185602.421629   49732 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1785185603.228584   49729 landmark_projection_calculator.cc:81] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+Traceback (most recent call last):
+  File "/Users/thisisakshansh/GestureMousePro/app.py", line 29, in <module>
+    if result and result.hand_landmarks:
+                  ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'hand_landmarks'

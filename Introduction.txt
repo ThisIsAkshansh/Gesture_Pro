@@ -1,0 +1,74 @@
+====================================================================
+			    AKSHANSH
+	SOFTWARE DEVELOPER  |  CREATIVE PROBLEM SOLVER
+====================================================================
+
+	      [ CODE ]  [ COMPUTER VISION ]  [ ACCESSIBILITY ]
+
+ABOUT
+-----
+Hello, I'm AKSHANSH. I enjoy turning ambitious ideas into useful,
+polished software. My work brings together thoughtful engineering,
+automation, and human-centered design, with a special interest in
+making everyday computer interactions more accessible.
+
+I like taking a project from its first sketch to a working experience:
+understanding the problem, designing the architecture, building the
+core features, and refining the details that make the result feel clear
+and dependable.
+
+FEATURED WORK
+-------------
+
+GESTUREMOUSE PRO  |  macOS, computer vision, assistive interaction
+A hands-free input project that uses a camera and hand gestures to
+control the cursor and perform common actions. The project includes
+gesture-based clicking, dragging, scrolling, sensitivity controls, a
+camera view, and native macOS input integration.
+
+AADI VOICE EXPERIENCE  |  voice interaction, automation, safety
+A voice-enabled companion for GestureMouse Pro, designed to make
+computer control more conversational. It supports spoken status and
+help, uses offline speech components, and keeps protected actions
+behind confirmation rather than silently executing uncertain requests.
+
+SKILLS & TECHNOLOGIES
+---------------------
+Programming:       Python, C++, Java, JavaScript, TypeScript, SQL
+Web:               HTML, CSS, responsive interface development
+AI & vision:       computer vision, hand tracking, MediaPipe, AI tools
+Desktop & systems: macOS development, native input events, PySide6
+Engineering:       object-oriented design, modular architecture,
+		     debugging, testing, performance, documentation
+Product strengths: accessibility-minded design, automation, prototyping
+
+Edit this list so it includes only technologies and skills you can
+confidently discuss or demonstrate.
+
+EXPERIENCE
+----------
+[Role or project]  |  [Organization or client]  |  [Dates]
+[Describe the problem, your contribution, the tools you used, and a
+specific result. Add another entry for each relevant role or project.]
+
+EDUCATION & CERTIFICATIONS
+--------------------------
+[Degree, course, or certification]  |  [Institution]  |  [Year]
+[Add relevant coursework, awards, or certifications here.]
+
+WHAT I BRING
+------------
+* A builder's mindset: I turn concepts into working software.
+* End-to-end thinking: I care about architecture as well as usability.
+* Responsible automation: I value clarity, user control, and safe defaults.
+* Curiosity: I keep learning and welcome challenging technical problems.
+
+LET'S CONNECT
+-------------
+Email:      [your email]
+LinkedIn:   [your LinkedIn profile]
+Portfolio:  [your website]
+
+====================================================================
+	BUILD WITH PURPOSE. MAKE TECHNOLOGY FEEL MORE HUMAN.
+====================================================================
